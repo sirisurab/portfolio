@@ -1,4 +1,4 @@
-# DS Portfolio
+# Data Science Portfolio
 
 # <a href='https://github.com/sirisurab/dupquest/blob/master/Capstone%202%20-%20Slides.pdf'>IDENTIFYING DUPLICATE QUESTIONS</a>
 <p>(for details refer to the <a href='https://github.com/sirisurab/dupquest/blob/master/Capstone%202%20-%20Final%20Report.pdf'>technical report</a>)</p>
